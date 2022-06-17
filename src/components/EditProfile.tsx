@@ -86,7 +86,6 @@ const EditProfile: React.FC = (props) => {
                 if (element.includes(`experience-${index + 1}`)) {
                   return true;
                 }
-              
                 return false;
             });
             let company_logo = experienceIDs[indexWiseCompanyLogo]
@@ -129,6 +128,8 @@ const EditProfile: React.FC = (props) => {
             if(response){
                 localStorage.removeItem('PROFILE_PHOTO')
             }
+            message.success('Your profile is being updated')
+            history.goBack();
         }catch(e){
 
         }
