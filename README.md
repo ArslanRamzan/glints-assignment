@@ -1,10 +1,12 @@
 # Experience : 4years
 
-FrontEnd : https://62ac27829b668e17c676dcef--glints-assignment.netlify.app/
+FrontEnd: https://62ac27829b668e17c676dcef--glints-assignment.netlify.app/
 
 BackEnd: https://nodejs-mongo-api-app.herokuapp.com/
 
-BackEnd Repository : https://github.com/ArslanRamzan/glints-assignment-backend
+FronEnd Repository: https://github.com/ArslanRamzan/glints-assignment
+
+BackEnd Repository: https://github.com/ArslanRamzan/glints-assignment-backend
 
 ## Tech Stack
 
