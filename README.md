@@ -4,6 +4,8 @@ FrontEnd : https://62ac27829b668e17c676dcef--glints-assignment.netlify.app/
 
 BackEnd: https://nodejs-mongo-api-app.herokuapp.com/
 
+BackEnd Repository : https://github.com/ArslanRamzan/glints-assignment-backend
+
 ## Tech Stack
 
 FrontEnd: ReactJS, Typescript, Antd, s3  
