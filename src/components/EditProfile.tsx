@@ -221,7 +221,7 @@ const EditProfile: React.FC = (props) => {
         ]}>
           <Input name="name" />
         </Form.Item>
-        <Form.Item initialValue={profileData?.age || userProfileData?.age} label="Age" name="nge" rules={[
+        <Form.Item initialValue={profileData?.age || userProfileData?.age} label="Age" name="age" rules={[
           {
             required: true,
             message: "Please enter user age"
